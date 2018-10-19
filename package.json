@@ -1,0 +1,20 @@
+{
+  "name": "projetQualite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonneauDo/projetQualite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonneauDo/projetQualite/issues"
+  },
+  "homepage": "https://github.com/GonneauDo/projetQualite#readme"
+}
